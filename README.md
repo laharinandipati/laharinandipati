@@ -1,4 +1,4 @@
-### Hi there I am [LAVANYA LAHARI NANDIPATI]()<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I am [LAVANYA LAHARI NANDIPATI]()<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
 🌍 **Software Engineer | Java & Cloud Developer | Tech Writer | Open Source Contributor**  
