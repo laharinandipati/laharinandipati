@@ -24,7 +24,6 @@ I also write technical blogs, contribute to open source, and explore **AI + Clou
 - [🛡️ Secure Patient Search in Healthcare: How AWS KMS Simplifies Data Encryption](https://medium.com/@laharinandipati777/️secure-patient-search-in-healthcare-how-aws-kms-simplifies-data-encryption-8a01cfbbd678)  
 - [☁️ Cloud Automation with Terraform & AWS](#)  
 
-*(You can automate this section with GitHub Actions if you’d like)*  
 
 ---
 
