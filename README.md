@@ -40,9 +40,11 @@ I also write technical blogs and contribute to open-source projects.
 
 ### My GitHub Stats 📊
 
-[![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/main/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/main/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/main/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/main/profile-summary-card-output/radical/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/main/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 ---
