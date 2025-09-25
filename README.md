@@ -7,8 +7,7 @@
 
 ---
 
-I am a **Software Engineer** passionate about **Java, Spring Boot, and Cloud (AWS & Azure)**.  
-I work on **healthcare technology, secure patient search, and scalable backend systems**.  
+I am a **Software Engineer** passionate about **Java, Spring Boot, and Cloud (AWS & Azure)**.I work on **healthcare technology, secure patient search, and scalable backend systems**.  
 I also write technical blogs and contribute to open-source projects.  
 
 ---
