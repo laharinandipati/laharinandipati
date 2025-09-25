@@ -28,12 +28,26 @@ I also write technical blogs, contribute to open source, and explore **AI + Clou
 
 ---
 
-### 📊 My GitHub Stats  
+<!- ### 📊 My GitHub Stats  
 ![Lahari’s GitHub stats](https://github-readme-stats.vercel.app/api?username=laharinandipati&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laharinandipati&layout=compact&theme=radical)  
-![Streak](https://streak-stats.demolab.com/?user=laharinandipati&theme=radical)  
+![Streak](https://streak-stats.demolab.com/?user=laharinandipati&theme=radical)  -->
 
 ---
+
+### My GitHub Stats 📊
+
+[![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=laharinandipati&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+
+
+
 
 ### 📌 Featured Projects  
 - 🔐 **HIPAA-Chatbot-Bedrock** – Chatbot leveraging AWS Bedrock with compliance-ready patient data encryption.  
