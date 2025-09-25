@@ -13,7 +13,8 @@ I also write technical blogs and contribute to open-source projects.
 ---
 
 ### Languages and tools ⚙️
-<p align="center">
+<!-- Badges from ColoredBadges -->
+<p>
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/lang/java.svg" alt="Java" width="50"/> 
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/spring.svg" alt="Spring Boot" width="50"/> 
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/aws.svg" alt="AWS" width="50"/> 
@@ -24,7 +25,6 @@ I also write technical blogs and contribute to open-source projects.
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/git.svg" alt="Git" width="50"/> 
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" width="50"/> 
 </p>
-
 
 
 ---
