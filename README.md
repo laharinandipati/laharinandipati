@@ -25,17 +25,9 @@ I also write technical blogs, contribute to open source, and explore **AI + Clou
 - [🛡️ Secure Patient Search in Healthcare: How AWS KMS Simplifies Data Encryption](https://medium.com/@laharinandipati777/️secure-patient-search-in-healthcare-how-aws-kms-simplifies-data-encryption-8a01cfbbd678)  
 - [☁️ Cloud Automation with Terraform & AWS](#)  
 
-
 ---
 
-<!- ### 📊 My GitHub Stats  
-![Lahari’s GitHub stats](https://github-readme-stats.vercel.app/api?username=laharinandipati&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laharinandipati&layout=compact&theme=radical)  
-![Streak](https://streak-stats.demolab.com/?user=laharinandipati&theme=radical)  -->
-
----
-
-### My GitHub Stats 📊
+### 📊 My GitHub Stats 📊
 
 [![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
@@ -45,7 +37,6 @@ I also write technical blogs, contribute to open source, and explore **AI + Clou
 [![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=laharinandipati&theme=ads-juicy-fresh)](https://git.io/streak-stats)
-
 
 
 
