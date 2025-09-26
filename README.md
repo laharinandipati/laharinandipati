@@ -3,7 +3,6 @@
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=laharinandipati&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/laharinandipati)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavanyalaharinandipati/)
-[![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@laharinandipati)
 
 ---
 
