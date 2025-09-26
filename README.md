@@ -9,29 +9,13 @@
 I am a **Software Engineer** passionate about **Java, Spring Boot, and Cloud (AWS & Azure)**.I work on **healthcare technology, secure patient search, and scalable backend systems**.  
 I also write technical blogs and contribute to open-source projects.  
 
----
-
-### Languages and tools ⚙️
-<!-- Badges from ColoredBadges -->
-<p>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/lang/java.svg" alt="Java" width="50"/> 
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/spring.svg" alt="Spring Boot" width="50"/> 
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/aws.svg" alt="AWS" width="50"/> 
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/azure.svg" alt="Azure" width="50"/> 
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg" alt="Docker" width="50"/> 
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/kubernetes.svg" alt="Kubernetes" width="50"/> 
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="React" width="50"/> 
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/git.svg" alt="Git" width="50"/> 
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" width="50"/> 
-</p>
-
 
 ---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [🛡️ Secure Patient Search in Healthcare: How AWS KMS Simplifies Data Encryption](https://medium.com/@laharinandipati777/️secure-patient-search-in-healthcare-how-aws-kms-simplifies-data-encryption-8a01cfbbd678)
-- [☁️ Cloud Automation with Terraform & AWS](#)
+- [Building a HIPAA-Compliant Chatbot with AWS Lambda & Bedrock](https://dev.to/lahari_nandipati_aae7627d/building-a-hipaa-compliant-chatbot-with-aws-lambda-bedrock-3b4a)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://medium.com/@laharinandipati)
 
