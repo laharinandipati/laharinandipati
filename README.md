@@ -17,7 +17,7 @@ I also write technical blogs and contribute to open-source projects.
 - [🛡️ Secure Patient Search in Healthcare: How AWS KMS Simplifies Data Encryption](https://medium.com/@laharinandipati777/️secure-patient-search-in-healthcare-how-aws-kms-simplifies-data-encryption-8a01cfbbd678)
 - [Building a HIPAA-Compliant Chatbot with AWS Lambda & Bedrock](https://dev.to/lahari_nandipati_aae7627d/building-a-hipaa-compliant-chatbot-with-aws-lambda-bedrock-3b4a)
 <!-- BLOG-POST-LIST:END -->
-▶️ [more blog posts...](https://medium.com/@laharinandipati)
+▶️ [more blog posts...](https://medium.com/@laharinandipati777)
 
 ---
 
