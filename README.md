@@ -34,10 +34,5 @@ I also write technical blogs and contribute to open-source projects.
 
 
 
-### ✨ My Recent Activity
-<!--START_SECTION:activity-->
-<!-- GitHub action can auto-update this -->
-<!--END_SECTION:activity-->
-
 <br/>
 
