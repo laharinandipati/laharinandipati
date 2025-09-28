@@ -3,13 +3,14 @@
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=laharinandipati&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/laharinandipati)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavanyalaharinandipati/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laharinandipati777@gmail.com)
+
 
 ---
-
-I am a **Software Engineer** passionate about **Java, Spring Boot, and Cloud (AWS & Azure)**.I work on **healthcare technology, secure patient search, and scalable backend systems**.  
-I also write technical blogs and contribute to open-source projects.  
-
-
+### 🌱 Currently Exploring
+- 🚀 Frontend performance & UI architecture  
+- 🧭 Cloud architecture and DevOps best practices  
+- ✍️ Writing **tech blogs** and sharing learnings on Medium  
 ---
 
 ### 📕 Latest Blog Posts
@@ -18,6 +19,13 @@ I also write technical blogs and contribute to open-source projects.
 - [Building a HIPAA-Compliant Chatbot with AWS Lambda & Bedrock](https://dev.to/lahari_nandipati_aae7627d/building-a-hipaa-compliant-chatbot-with-aws-lambda-bedrock-3b4a)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://medium.com/@laharinandipati777)
+
+---
+
+### 🌟 Beyond the Code
+- ✈️ Love to travel, explore cultures, and try local food  
+- 🇫🇷 🗣️ Currently saying *"Bonjour, le monde!"* instead of *"Hello, world!"* 🇫🇷✨
+- 🏺 **Ceramic Artist and Handbuilder** — it’s my way of slowing down and embracing mindfulness
 
 ---
 
