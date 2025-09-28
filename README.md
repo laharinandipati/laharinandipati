@@ -23,9 +23,9 @@
 ---
 
 ### 🌟 Beyond the Code
-- ✈️ Love to travel, explore cultures, and try local food  
-- 🇫🇷 🗣️ Currently saying *"Bonjour, le monde!"* instead of *"Hello, world!"* 🇫🇷✨
-- 🏺 **Ceramic Artist and Handbuilder** — it’s my way of slowing down and embracing mindfulness
+- ☕️ Cafè hopping
+- 🇫🇷 Currently saying *"Bonjour, le monde!"*
+- 🏺 Ceramic Artist and Handbuilder — it’s my way of slowing down and embracing mindfulness
 
 ---
 
