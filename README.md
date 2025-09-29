@@ -13,22 +13,6 @@
 - ✍️ Writing **tech blogs** and sharing learnings on Medium  
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [🛡️ Secure Patient Search in Healthcare: How AWS KMS Simplifies Data Encryption](https://medium.com/@laharinandipati777/️secure-patient-search-in-healthcare-how-aws-kms-simplifies-data-encryption-8a01cfbbd678)
-- [Building a HIPAA-Compliant Chatbot with AWS Lambda & Bedrock](https://dev.to/lahari_nandipati_aae7627d/building-a-hipaa-compliant-chatbot-with-aws-lambda-bedrock-3b4a)
-<!-- BLOG-POST-LIST:END -->
-▶️ [more blog posts...](https://medium.com/@laharinandipati777)
-
----
-
-### 🌟 Beyond the Code
-- ☕️ Cafè hopping
-- 🇫🇷 Currently saying *"Bonjour, le monde!"*
-- 🏺 Ceramic Artist and Handbuilder — it’s my way of slowing down and embracing mindfulness
-
----
-
 ### My GitHub Stats 📊
 
 [![](https://raw.githubusercontent.com/laharinandipati/laharinandipati/main/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
