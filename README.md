@@ -10,7 +10,7 @@
 ### 🌱 Currently Exploring
 - 🚀 Frontend performance & UI architecture  
 - 🧭 Cloud architecture and DevOps best practices  
-- ✍️ Writing **tech blogs** and sharing learnings on Medium  
+- ✍️ UI/UX
 ---
 
 ### My GitHub Stats 📊
